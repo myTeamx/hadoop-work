@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
 
         <!-- hadoop -->
-        <hadoop.version>2.8.5</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
 
 
     </properties>
